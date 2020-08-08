@@ -1,0 +1,9 @@
+1. COMPLEXITY ANALYSIS FOR TRADITIONAL APPROACH:
+
+i.	Time Complexity: O (n)
+ii.	Space Complexity: O (1)
+
+2. COMPLEXITY ANALYSIS FOR OPTIMIZED APPROACH:
+
+i.	Time Complexity: O (log n)
+ii.	Space Complexity: O (1)
