@@ -1,0 +1,9 @@
+Step 1: Start
+Step 2: Use recursion
+Step 3: Let x, n be the two numbers where x is the base value and n is the exponent of x.
+Step 4: Input x and n.
+Step 5: If n is even, return 2 * power(x, y/2)
+Step 6: If n is odd, return x * 2 * power(x, y/2)
+Step 7: Repeat Steps 5 and 6 until n is equal to 0
+Step 8: Output the final value which will be our final answer. 
+Step 9: Finish
